@@ -1,0 +1,89 @@
+151
+Mc'Donalds
+Burgers
+0
+15
+17 rue Jean Jaurès
+10
+oui
+
+41
+Pizza Hut
+Pizzas
+0
+4
+2 rue Lakanal
+7
+oui
+
+131
+Nakata
+Sushis
+0
+13
+2 rue du Nouveau Ming
+15
+oui
+
+1011
+Chez Renault
+Belge
+3
+1
+69 boulevard Haussmann
+80
+non
+oui
+
+1811
+Chez Gino
+Italienne
+2
+8
+7 avenue Montaigne
+50
+oui
+non
+
+1811
+Kongossa
+Africaine
+2
+18
+20 allée de la Reine
+30
+oui
+non
+
+3821
+Fouquet's
+Francaise
+4
+8
+99 Avenue des Champs-Elysées
+100
+non
+oui
+7
+
+3621
+L'abeille
+Francaise
+5
+16
+ 10 Avenue d'Iéna
+100
+non
+non
+10
+
+15181
+Trévise
+Grec
+5
+15
+HHHBB
+15
+oui
+oui
+
